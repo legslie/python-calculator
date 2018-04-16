@@ -2,7 +2,7 @@ import sys
 
 
 def menu_items():
-    print("Calculator")
+    print("Calculator by legslie")
     print("1. addition")
     print("2. subtraction")
     print("3. multiplication")
